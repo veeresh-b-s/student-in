@@ -1,2 +1,2 @@
-# student-in
-student information
+# student-information
+
